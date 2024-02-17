@@ -6,7 +6,7 @@
 **In the vast landscape of digital communication, where words flutter through the airwaves, WhatsApp stands as a bustling town square.** 🌐💬
 
 ### **🚀 Project Overview:**
-In the heart of this bustling town, the **WhatsApp Chat Analyzer** emerges as a beacon, a tool finely crafted to unravel the mysteries concealed within the lines of digital conversations. Authored by the ingenious [@saadharoon27](https://github.com/saadharoon27), this project serves as the key to deciphering the intricate patterns woven into the fabric of WhatsApp chats.
+In the heart of this bustling town, the **WhatsApp Chat Analyzer** emerges as a beacon, a tool finely crafted to unravel the mysteries concealed within the lines of digital conversations. Authored by the ingenious [@Mohammad Kaif Tahir], this project serves as the key to deciphering the intricate patterns woven into the fabric of WhatsApp chats.
 
 ### **🛠️ WebApp Features:**
 **This tool, this digital maestro, boasts an array of features tailored to decode the nuances of your WhatsApp exchanges.**
