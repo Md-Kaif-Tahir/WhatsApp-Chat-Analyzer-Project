@@ -1,6 +1,3 @@
-
-![suchandra-roy-chowdhury-cM8X2DDvnGE-unsplash](https://github.com/Md-Kaif-Tahir/WhatsApp-Chat-Analyzer-Project/assets/110182266/222356d5-641f-4d60-bdb5-c7c62fa5c3c9)
-
 ## Unraveling the WhatsApp Chat Analyzer Project! 📱🔍
 
 **In the vast landscape of digital communication, where words flutter through the airwaves, WhatsApp stands as a bustling town square.** 🌐💬
